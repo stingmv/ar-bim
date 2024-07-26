@@ -471,6 +471,10 @@ PrefabInstance:
       propertyPath: m_Color.r
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 4343413407798468592, guid: 7c4ec247ccdbe7d4fa9385992968f59a, type: 3}
+      propertyPath: m_text
+      value: Ingresa a tu cuenta para revisar tus modelos en Realidad Aumentada
+      objectReference: {fileID: 0}
     - target: {fileID: 4618196111168283725, guid: 7c4ec247ccdbe7d4fa9385992968f59a, type: 3}
       propertyPath: m_Name
       value: CanvasLogin
